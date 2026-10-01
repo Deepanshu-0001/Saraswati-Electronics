@@ -1,0 +1,33 @@
+TV REPAIR CONVERSION - SARASWATI ELECTRONICS
+
+Updated production pages:
+- index.html: TV repair homepage, services, repair process, expertise, repair-help scenarios, contact enquiry copy
+- blog.html: TV repair guides and troubleshooting topics
+- post.html: detailed guide for TV sound-with-no-picture / backlight diagnosis
+- faq.html: TV repair FAQ with FAQPage structured data
+- privacy-policy.html: adapted for repair enquiries and website data handling
+- terms-of-service.html: adapted for repair/service enquiries
+- financial-reports.html: repurposed/noindex reference page
+
+SEO improvements:
+- Unique title + meta description on production pages
+- Robots directives
+- Open Graph + Twitter metadata
+- ElectronicsStore/Service structured data on homepage
+- FAQPage schema on FAQ
+- Article schema on repair guide
+- Image alt text reviewed
+- robots.txt added
+- Demo/theme pages blocked from indexing
+
+Preserved:
+- Existing HTML page/layout structure
+- Existing Bootstrap layout
+- Existing style.css design
+- Existing animation libraries/classes
+
+Before publishing:
+- Replace phone/WhatsApp, email, address/service areas and map placeholders
+- Confirm final production domain, then add canonical URLs and sitemap.xml
+- Connect contact form to a real backend/CRM/email handler
+- Replace stock imagery with owned workshop/team photography when available
